@@ -3,13 +3,13 @@
 
 - 🔭 Currently focused on **JQuery, NODE, and Open Source Contributions**
 - 🌱 Actively learning **Database and Backend Development**
-- 💬 Feel free to inquire about **Html, Css, Bootstrap, JavaScript, JQuery, Node JS, SQL**
+- 💬 Feel free to inquire about **HTML, CSS, Bootstrap, JavaScript, JQuery, Node JS, SQL**
 - 📫 Contact me at [shiffatariq@gmail.com](mailto:shiffatariq@gmail.com)
 - ⚡ Contributing to Open Source projects at **Recimotech Solutions** 😄
 
 <hr>
 <h3 align="left">For any inquiries:</h3>
-<a href="#"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="HTML" width="40" height="40"/></a>
+<a href="#"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 
 <p align="left">
   <a href="https://github.com/shiffa-04" target="_blank">
@@ -27,10 +27,9 @@
    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 
 </p>
