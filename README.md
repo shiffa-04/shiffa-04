@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Shiffa Tariq! 👋</h1>
-<h3 align="center">Experienced MERN STACK Web Developer and Web Designer</h3>
+<h1 align="left">👋 Hi, I'm Shiffa Tariq!</h1>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast | NLP Practitioner</h3>
 
 - 🔭 Currently focused on **JQuery, NODE, and Open Source Contributions**
 - 🌱 Actively learning **Database and Backend Development**
