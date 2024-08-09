@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Shiffa Tariq!</h1>
+<h1 align="center">👋 Hi, I'm Shiffa Tariq!</h1>
 <h3 align="center">Data Analyst | Machine Learning Enthusiast | NLP Practitioner</h3>
 
 - 🔭 Currently focused on **JQuery, NODE, and Open Source Contributions**
