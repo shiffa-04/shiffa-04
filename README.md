@@ -1,11 +1,8 @@
-<h1 align="center">👋 Hi, I'm Shiffa Tariq!</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast | NLP Practitioner</h3>
+<h1 align="center">Shiffa Tariq!</h1>
+<h3 align="center"> Data Scientist Enthusiast |AI|ML|NLP|LLM's</h3>
 
-- 🔭 Currently focused on **JQuery, NODE, and Open Source Contributions**
-- 🌱 Actively learning **Database and Backend Development**
-- 💬 Feel free to inquire about **HTML, CSS, Bootstrap, JavaScript, JQuery, Node JS, SQL**
-- 📫 Contact me at [shiffatariq@gmail.com](mailto:shiffatariq@gmail.com)
-- ⚡ Contributing to Open Source projects at **Recimotech Solutions** 😄
+-I specialize in Machine Learning, Deep Learning, and NLP, including Generative AI techniques like RAG and LangChain.
+-I am currently focusing on Docker and Azure.
 
 <hr>
 <h3 align="left">For any inquiries:</h3>
