@@ -1,7 +1,7 @@
 <h1 align="center">Shiffa Tariq!</h1>
 <h3 align="center"> Data Scientist Enthusiast |AI|ML|NLP|LLM's</h3>
 
--I specialize in Machine Learning, Deep Learning, and NLP, including Generative AI techniques like RAG and LangChain.
+-I specialize in Machine Learning, Deep Learning, and NLP, including Generative AI techniques like RAG and LangChain.<br>
 -I am currently focusing on Docker and Azure.
 
 <hr>
