@@ -2,7 +2,7 @@
 <h3 align="center"> Data Scientist Enthusiast |AI|ML|NLP|LLM's</h3>
 
 -I specialize in Machine Learning, Deep Learning, and NLP, including Generative AI techniques like RAG and LangChain.<br>
--I am currently focusing on Docker and Azure.
+-I am currently focusing on Docker and Azure.<br>
 📧 Reach me at: shiffatariq@gmail.com 
 <hr>
 <h3 align="left">For any inquiries:</h3>
