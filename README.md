@@ -8,13 +8,6 @@
 <h3 align="left">For any inquiries:</h3>
 <a href="#"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 
-<p align="left">
-  <a href="https://github.com/shiffa-04" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-
-</p>
-
 <hr>
 <h3 align="left">My expertise includes proficiency in the following languages:</h3>
 <p align="left">
